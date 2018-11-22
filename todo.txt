@@ -1,0 +1,14 @@
+ratios of swagger:openapi topics/projects etc
+
+github     1876 swagger / 543 openapi
+bitbucket   368 swagger /  24 openapi
+gitlab
+
+https://api.github.com/repos/mermade/oas-kit
+
+https://github.com/kinlane/api-evangelist/blob/5779367864d102d4f6833215539422543103e7a6/_posts/2017-09-12-openapi-30-tooling-discovery-on-github-and-social-media.markdown
+=
+https://apievangelist.com/2017/09/12/openapi-30-tooling-discovery-on-github-and-social-media/
+
+Kin wrote 510 words on "Why not make your project discoverable by using the topic openapi3 on GitHub and using the hashtags #openapi3 and #OASv3 on social media?"
+
