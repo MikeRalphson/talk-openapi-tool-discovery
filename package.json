@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MikeRalphson/talk-openapi-tool-discovery#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2"
+    "cheerio": "^1.0.0-rc.2",
+    "js-yaml": "^3.12.0"
   }
 }
