@@ -28,7 +28,7 @@ Is like Top-Of-The-Pops, fast-moving run-down of the latest movers and shakers.
 
 ---
 
-[!ogwt](images/whistle-test.jpg)
+![ogwt](images/whistle-test.jpg)
 
 ---
 
