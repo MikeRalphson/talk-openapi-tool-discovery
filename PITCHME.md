@@ -14,6 +14,12 @@
 
 ---
 
+## Finding OAS-related tools
+
+TODO history, swagger.io, IMPLEMENTATIONS.md, submission model
+
+---
+
 ![imp](images/sainsburys.jpg)
 
 ---
