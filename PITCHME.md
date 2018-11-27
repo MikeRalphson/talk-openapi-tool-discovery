@@ -8,6 +8,12 @@
 
 ---
 
+## How I got into all this
+
+![first](images/first-commit.png)
+
+---
+
 ![imp](images/sainsburys.jpg)
 
 ---
@@ -35,5 +41,25 @@ Is like Top-Of-The-Pops, fast-moving run-down of the latest movers and shakers.
 ## OpenAPI.tools
 
 Is like The Old Grey Whistle Test. Bands come on and get time to do two or three numbers from their latest album, and have a quiet chat with the genial hosts.
+
+---
+
+## APIDays Paris Exclusive
+
+A look at the new Top100 page from APIs.guru awesome-openapi3
+
+---
+
+![top100](images/top100.png)
+
+---
+
+## Driven by...
+
+a GraphQL query against GitHub's v4 API.
+
+---
+
+![graphql](images/graphql-query.png)
 
 ---
