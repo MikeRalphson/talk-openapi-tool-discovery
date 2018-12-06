@@ -2,6 +2,10 @@
 
 # OpenAPI Tool Discovery
 
+Note:
+
+First presented at API Days Paris, December 12th 2018.
+
 ---
 
 ![bio](images/twitter-bio.jpg)
@@ -77,6 +81,18 @@ a GraphQL query against GitHub's v4 API.
 
 ---
 
+## Awesome-OpenAPI3 unique features
+
+* API access (raw data includes Swagger v1/v2 tools too)
+* RSS feed (bring back Google Reader you guys)
+* Schema.Org Product data for each tool
+
+---
+
+![img](images/sdtt.png)
+
+---
+
 ## Quote from awesome-openapi3 repo
 
 "Why not make your project discoverable by using the topic openapi3 on GitHub and using the hashtags #openapi3 and #OASv3 on social media?"
@@ -110,3 +126,7 @@ That was 510 words!
 ![img](images/mastodon-testimonial.png)
 
 ---
+
+## Blogs
+
+# The Practical Dev (dev.to) > medium
