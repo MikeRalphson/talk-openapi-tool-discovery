@@ -43,7 +43,7 @@ Is like buying records by watching kids TV. You may come across some music but t
 
 ## awesome-openapi3
 
-Is like Top-Of-The-Pops, Formel Eins or American Bandstand, a fast-moving weekly run-down of the latest movers and shakers.
+Is like Top-Of-The-Pops, Formel Eins or American Top 40 with Casey Kasem, a fast-moving weekly run-down of the latest movers and shakers.
 
 ---
 
