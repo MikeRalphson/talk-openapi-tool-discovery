@@ -12,6 +12,13 @@
 
 ![first](images/first-commit.png)
 
+Note:
+
+First commit just over 2 years ago, a missing full-stop! I thought it was the
+warm welcome each PR received which gave me confidence and made me feel 
+appreciated, but checking back it turns out to have been the ruthless
+efficiency which must have appealed.
+
 ---
 
 ## Finding OAS-related tools
@@ -20,13 +27,13 @@ TODO history, swagger.io, IMPLEMENTATIONS.md, submission model
 
 ---
 
-![imp](images/sainsburys.jpg)
+![img](images/five-star.jpg)
 
 ---
 
 ### OAS/IMPLEMENTATIONS.md
 
-Is like buying records from the supermarket. There's only a limited selection and there's no other information available, but you can't argue with the price!
+Is like buying records by watching kids TV. You may come across some music but there's only a limited selection and there's not much information available.
 
 ---
 
@@ -36,7 +43,7 @@ Is like buying records from the supermarket. There's only a limited selection an
 
 ## awesome-openapi3
 
-Is like Top-Of-The-Pops, fast-moving run-down of the latest movers and shakers.
+Is like Top-Of-The-Pops, fast-moving weekly run-down of the latest movers and shakers.
 
 ---
 
@@ -46,7 +53,7 @@ Is like Top-Of-The-Pops, fast-moving run-down of the latest movers and shakers.
 
 ## OpenAPI.tools
 
-Is like The Old Grey Whistle Test. Bands come on and get time to do two or three numbers from their latest album, and have a quiet chat with the genial hosts.
+Is like The Old Grey Whistle Test. Bands come on and get time to do two or three numbers from their latest album, and have a lively chat with the opinionated hosts.
 
 ---
 
