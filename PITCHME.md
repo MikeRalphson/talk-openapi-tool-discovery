@@ -77,13 +77,13 @@ a GraphQL query against GitHub's v4 API.
 
 ---
 
-## Categories
-
-Tools are now automatically categorised by Bayesian analysis of the content of their `README` files. Manual correction only occasionally needed. Thanks to Boyan Yordanov especially for PRs.
+![graphql](images/graphql-query.png)
 
 ---
 
-![graphql](images/graphql-query.png)
+## Categories
+
+Tools are now automatically categorised by Bayesian analysis of the content of their `README` files. Manual correction only occasionally needed. Thanks to Boyan Yordanov especially for PRs.
 
 ---
 
@@ -101,7 +101,7 @@ Tools are now automatically categorised by Bayesian analysis of the content of t
 
 ## Static site (jekyll/GitHub-pages)
 
-### Updated weekly via Travis-CI cron job
+* Updated weekly via Travis-CI cron job
 
 ---
 
@@ -130,6 +130,12 @@ http://discovery.apievangelist.com/2017/09/12/openapi-30-tooling-discovery-on-gi
 ### I should remember when I haven't got anything to blog about
 
 That was 510 words!
+
+---
+
+# Marketing
+
+Doing all the things potential users might want you to have done, proactively. Blogging, social media, talks and presentations, meetups, GitHub topics etc.
 
 ---
 
