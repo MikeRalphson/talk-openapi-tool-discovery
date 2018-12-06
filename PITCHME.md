@@ -77,6 +77,12 @@ a GraphQL query against GitHub's v4 API.
 
 ---
 
+## Categories
+
+Tools are now automatically categorised by Bayesian analysis of the content of their `README` files. Manual correction only occasionally needed. Thanks to Boyan Yordanov especially for PRs.
+
+---
+
 ![graphql](images/graphql-query.png)
 
 ---
