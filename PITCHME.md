@@ -147,12 +147,16 @@ That was 510 words!
 
 # Marketing 2.0
 
-### "Relevancy or die!" - Claire Ralphson-Cook 'Cook Says'.
+### "Relevancy or die!" - Claire Ralphson-Cook (Brand Planner 25 years+)
 
 * All about connection
 * Nobody succeeds by selling alone
 * Authentic experiences and people, and part of customer journey
 * Meaningful relationships
+
+---
+
+# Basically...
 
 Doing all the things potential users might want you to have done, proactively. Blogging, social media, talks and presentations, meetups, GitHub topics etc.
 
