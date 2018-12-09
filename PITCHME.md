@@ -27,7 +27,10 @@ efficiency which must have appealed.
 
 ## Finding OAS-related tools
 
-TODO history, swagger.io, IMPLEMENTATIONS.md, submission model
+* Swagger.IO has a list of v1/v2 implementations - a little hard to find
+* https://swagger.io/tools/open-source/open-source-integrations/
+* OpenAPI Specification repository /IMPLEMENTATIONS.md - submission based model
+* Awesome-OpenAPI3 - markdown from March 2017, static from Feb 2018
 
 ---
 
@@ -142,7 +145,14 @@ That was 510 words!
 
 ---
 
-# Marketing
+# Marketing 2.0
+
+### "Relevancy or die!" - Claire Ralphson-Cook 'Cook Says'.
+
+* All about connection
+* Nobody succeeds by selling alone
+* Authentic experiences and people, and part of customer journey
+* Meaningful relationships
 
 Doing all the things potential users might want you to have done, proactively. Blogging, social media, talks and presentations, meetups, GitHub topics etc.
 
