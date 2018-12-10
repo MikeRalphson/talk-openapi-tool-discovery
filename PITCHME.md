@@ -177,3 +177,7 @@ Doing all the things potential users might want you to have done, proactively. B
 ## Blogs
 
 * The Practical Dev (dev.to) > medium
+
+---
+
+# Questions?
