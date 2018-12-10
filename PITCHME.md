@@ -36,6 +36,7 @@ efficiency which must have appealed.
 ### Unofficial sites
 
 * Awesome-OpenAPI3 - markdown from March 2017, static from Feb 2018
+* Relaunched December 2018
 * Creative Commons licensed
 
 ---
