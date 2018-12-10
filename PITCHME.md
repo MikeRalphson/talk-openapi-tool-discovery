@@ -30,7 +30,20 @@ efficiency which must have appealed.
 * Swagger.IO has a list of v1/v2 implementations - a little hard to find
 * https://swagger.io/tools/open-source/open-source-integrations/
 * OpenAPI Specification repository /IMPLEMENTATIONS.md - submission based model
+
+---
+
+### Unofficial sites
+
 * Awesome-OpenAPI3 - markdown from March 2017, static from Feb 2018
+* Creative Commons licensed
+
+---
+
+### More...
+
+* OpenAPI.tools - submission-based static site since December 2017
+* Content originally shared from Awesome-OpenAPI3
 
 ---
 
