@@ -117,6 +117,12 @@ Tools are now automatically categorised by Bayesian analysis of the content of t
 
 ---
 
+### Exclusive preview
+
+![img](images/reviews.png)
+
+---
+
 ## Quote from awesome-openapi3 repo
 
 "Why not make your project discoverable by using the topic openapi3 on GitHub and using the hashtags #openapi3 and #OASv3 on social media?"
