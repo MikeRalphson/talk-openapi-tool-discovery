@@ -12,6 +12,12 @@ First presented at API Days Paris, December 12th 2018.
 
 ---
 
+### Me last week
+
+![img](images/neb.png)
+
+---
+
 ## How I got into all this
 
 ![first](images/first-commit.png)
