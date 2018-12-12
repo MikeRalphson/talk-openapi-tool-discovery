@@ -26,15 +26,14 @@ First presented at API Days Paris, December 12th 2018.
 
 ## Finding OAS-related tools
 
-* Swagger.IO has a list of v1/v2 implementations
-* https://swagger.io/tools/open-source/open-source-integrations/
-* OpenAPI Specification repository /IMPLEMENTATIONS.md
+* Swagger.IO has a list of v1/v2 implementations (https://swagger.io/tools/open-source/open-source-integrations/)
+* OpenAPI Specification repository /IMPLEMENTATIONS.md (http://bit.do/oasv3-impl)
 
 ---
 
 ### Unofficial sites
 
-* Awesome-OpenAPI3 (Relaunched December 2018)
+* Awesome-OpenAPI3
 * Creative Commons licensed
 
 ---
@@ -125,6 +124,8 @@ a GraphQL query against GitHub's v4 API.
 
 ### The API Evangelist...
 
+![img](images/kin1.png)
+
 ---
 
 ![img](images/kin.png)
@@ -132,6 +133,14 @@ a GraphQL query against GitHub's v4 API.
 Note:
 
 http://discovery.apievangelist.com/2017/09/12/openapi-30-tooling-discovery-on-github-and-social-media/
+
+---
+
+![img](images/kin2.png)
+
+---
+
+![img](images/kin3.png)
 
 ---
 
