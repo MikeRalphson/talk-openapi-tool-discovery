@@ -173,7 +173,7 @@ Blogging, social media, talks and presentations, meetups, GitHub topics etc.
 
 ## Blogs
 
-* The Practical Dev (dev.to) > medium
+* The Practical Dev (https://dev.to) > medium
 
 ---
 
