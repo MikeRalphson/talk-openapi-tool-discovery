@@ -1,2 +1,3 @@
 # talk-openapi-tool-discovery
-WIP
+
+Given at #APIDays Paris 2018-12-12
