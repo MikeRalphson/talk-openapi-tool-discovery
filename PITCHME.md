@@ -136,11 +136,11 @@ http://discovery.apievangelist.com/2017/09/12/openapi-30-tooling-discovery-on-gi
 
 ---
 
-![img](images/kin2.png)
+<img src="images/kin2.png" width="90%"></img>
 
 ---
 
-![img](images/kin3.png)
+<img src="images/kin3.png" width="90%"></img>
 
 ---
 
